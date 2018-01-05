@@ -10,6 +10,6 @@ package com.zhiyou100.test;
 */
 public class demo02 {
 public static void main(String[] args) {
-	System.out.println("新增文件");
+	System.out.println("新增文件00000");
 }
 }
